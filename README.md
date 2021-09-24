@@ -1,2 +1,2 @@
 # bookCar
-Book Rental Car Before Anyone Else
+Automatic Booking for rental cars
